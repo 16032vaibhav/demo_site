@@ -1,0 +1,22 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lec4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/16032vaibhav/demo_site.git"
+  },
+  "author": "",
+  "bin": {
+    "mymkdir": "lec4.js"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/16032vaibhav/demo_site/issues"
+  },
+  "homepage": "https://github.com/16032vaibhav/demo_site#readme"
+}
